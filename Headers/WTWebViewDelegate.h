@@ -7,8 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-@import UIKit;
-@import WebKit;
+#import <UIKit/UIKit.h>
+#import <WebKit/WebKit.h>
 
 /**
  * # UIWebView

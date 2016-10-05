@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@import CoreData;
+#import <CoreData/CoreData.h>
 
 @class WTEventMeta;
 @class WTEventMedia;
